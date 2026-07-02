@@ -30,8 +30,19 @@ Computer Science Student | Building real-world projects | Aspiring Software Deve
 ## 📚 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sudeekshaballanda-hub&limit=6&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=sudeekshaballanda-hub&limit=6&theme=default&combine_all_yearly_contributions=true" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <sub>⭐ These are automatically generated based on your contribution activity</sub>
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=sudeekshaballanda-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
