@@ -27,9 +27,11 @@ Computer Science Student | Building real-world projects | Aspiring Software Deve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudeekshaballanda-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📚 Top Contributed Repositories
 
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sudeekshaballanda-hub&limit=6&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=sudeekshaballanda-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
