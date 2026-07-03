@@ -21,6 +21,48 @@ Computer Science Student | Building real-world projects | Aspiring Software Deve
 ![](https://streak-stats.demolab.com/?user=sudeekshaballanda-hub&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudeekshaballanda-hub&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📚 My Top Repositories
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sudeekshaballanda-hub/vibesync">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=vibesync&theme=default" width="95%" />
+        </a>
+        <br>
+        <sub>🎵 Music & Vibe Sync Platform</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sudeekshaballanda-hub/DecodeLabs-Internship">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=DecodeLabs-Internship&theme=default" width="95%" />
+        </a>
+        <br>
+        <sub>💼 DecodeLabs Internship Projects</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sudeekshaballanda-hub/IPL-Data-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=IPL-Data-Analysis&theme=default" width="95%" />
+        </a>
+        <br>
+        <sub>🏏 IPL Data Analytics Dashboard</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sudeekshaballanda-hub/nyay-setu-working">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=nyay-setu-working&theme=default" width="95%" />
+        </a>
+        <br>
+        <sub>⚖️ Nyay Setu - Legal Tech Platform</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <sub>🚀 My featured projects - Click on any card to view the repository</sub>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
