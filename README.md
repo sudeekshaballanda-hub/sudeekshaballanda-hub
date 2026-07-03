@@ -24,18 +24,44 @@ Computer Science Student | Building real-world projects | Aspiring Software Deve
 ## 📚 My Top Repositories
 
 <div align="center">
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [🎵 vibesync](https://github.com/sudeekshaballanda-hub/vibesync) | Music & Vibe Sync Platform | ⭐ |
-| [💼 DecodeLabs-Internship](https://github.com/sudeekshaballanda-hub/DecodeLabs-Internship) | DecodeLabs Internship Projects | ⭐ |
-| [🏏 IPL-Data-Analysis](https://github.com/sudeekshaballanda-hub/IPL-Data-Analysis) | IPL Data Analytics Dashboard | ⭐ |
-| [⚖️ nyay-setu-working](https://github.com/sudeekshaballanda-hub/nyay-setu-working) | Nyay Setu - Legal Tech Platform | ⭐ |
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sudeekshaballanda-hub/vibesync">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=vibesync&theme=default&hide_border=true" width="95%" />
+        </a>
+        <br>
+        <sub>🎵 Music & Vibe Sync Platform</sub>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sudeekshaballanda-hub/DecodeLabs-Internship">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=DecodeLabs-Internship&theme=default&hide_border=true" width="95%" />
+        </a>
+        <br>
+        <sub>💼 DecodeLabs Internship Projects</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sudeekshaballanda-hub/IPL-Data-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=IPL-Data-Analysis&theme=default&hide_border=true" width="95%" />
+        </a>
+        <br>
+        <sub>🏏 IPL Data Analytics Dashboard</sub>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sudeekshaballanda-hub/nyay-setu-working">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeekshaballanda-hub&repo=nyay-setu-working&theme=default&hide_border=true" width="95%" />
+        </a>
+        <br>
+        <sub>⚖️ Nyay Setu - Legal Tech Platform</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <sub>🚀 My featured projects - Click on any link to view the repository</sub>
+  <sub>🚀 Click on any card to view the repository</sub>
 </div>
 
 
@@ -43,6 +69,6 @@ Computer Science Student | Building real-world projects | Aspiring Software Deve
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sudeekshaballanda-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sudeekshaballanda-hub&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
